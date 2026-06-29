@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Brand Logo -->
-  <img src="https://thesudolab.xyz/logo.png" alt="TheSudoLab Logo" width="200px" />
+  <img src="https://github.com/thesudolab/Whoami/blob/main/thesudolab.svg" alt="TheSudoLab" width="200px" />
 </p>
 
 <h1 align="center">Welcome to TheSudoLab 🔬</h1>
