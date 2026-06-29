@@ -5,10 +5,9 @@
   <img src="https://github.com/thesudolab/Whoami/blob/main/thesudolab.svg" alt="TheSudoLab" width="200px" />
 </p>
 
-<h1 align="center">Welcome to TheSudoLab 🔬</h1>
 
 <p align="center">
-  Welcome to my corner of the web. I'm the creator behind <b><a href="https://thesudolab.xyz">thesudolab.xyz</a></b>, where I explore the practical side of Linux, network security, and system administration.
+Welcome to my portfolio. As the founder and technical author of thesudolab.xyz, I share insights, documentation, and practical implementations focusing on Linux administration, proactive network security, and systems automation.
 </p>
 
 <p align="center">
